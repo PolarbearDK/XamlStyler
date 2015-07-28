@@ -1,4 +1,15 @@
-﻿1.6 
+﻿2.0 Beta
+--------
+Redesigned options - Not backward compatible!
+Fix "Run" and generally significant spacing
+Fix root attribute handling
+Fix MarkupExtenson formatting
+Fix CDATA support
+Support xml:Space
+Added option for comment spacing
+Added thickness formatting (Margin/Padding ect.)
+
+1.6 
 ----
 Added 2 options to keep Binding and x:Bind statements on the same line
 Added option to remove space before closing tag (thanks Philip)
